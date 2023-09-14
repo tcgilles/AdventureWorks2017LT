@@ -1,0 +1,9 @@
+{
+	"name": "adf-gtc",
+	"location": "francecentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "6fa13035-b3a7-4951-b32e-c91db546e36f",
+		"tenantId": "f80f89f5-99a9-46a2-b233-cd006a9387bf"
+	}
+}
